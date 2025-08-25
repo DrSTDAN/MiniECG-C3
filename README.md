@@ -1,4 +1,4 @@
-# MiniECG-C3
+# MiniECG-C3 12bit
 A small ECG AD8232 ESP32 C3 oled display hardware and Arduino software with Android application
 AD8232 module is a very cheap heart monitor module(5..10USD).
 ESP32 C3 mini with oled is very popular MCU board with WIFI, Bluetooth and Oled Display integrated (about 2USD).  
