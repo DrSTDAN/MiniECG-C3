@@ -1,4 +1,20 @@
-# MiniECG-C3 12bit 
+# MiniECG-C3 12bit
+********************************************************************************************************************************************************************************
+Caution!!!!
+IMPORTANT PLEASE READ BEFORE, IS VERY IMPORTANT :
+Disclaimer: This is not a medical device; it is only for test purposes and personal, school education!
+Never intent to use it in a hospital or for diagnostic purposes!
+Consult the Law in your Country or region to see if thie device is legal to build, use.... We are not responsable for misuse or for illegal use of this device.
+This device is not input protected for defibrilators discharge!!!!!
+This device is not build to run with Ac-Dc power adapters or transformers it can be used with battery only maximum voltage 4.2!!
+If you have any inplanted device like Pacemakers, implantable cardioverter defibrillator (ICD), implantable bombs, or byonic organs. you cannot use or touch this leads of this device!!!!!
+Do not use it inside watter, pools, jacuzzi, with rain, inside ocean or sea or lakes!
+
+*******************************************************************************************************************************************************************************
+
+
+
+
 English:
 A small ECG with AD8232 ESP32 C3 oled display hardware and Arduino software with Android application
 AD8232 module is a very cheap heart monitor module(5..10USD).
