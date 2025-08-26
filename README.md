@@ -65,6 +65,7 @@ aqui les dejo las foto de nuestro trabajo con el apk conectado con el miniecg in
 
 
 ![ECG_principle_slow](https://github.com/user-attachments/assets/0db71d1a-0d35-41b2-8c53-511425554ce2)
+<img width="1024" height="1024" alt="SinusRhythmLabels svg" src="https://github.com/user-attachments/assets/dbb845f7-c53b-4b1f-9e38-9a9fa344c937" />
 
 
 ![SinusalSimulator](https://github.com/user-attachments/assets/a6e74da5-6bc0-407c-958b-69473a71414d)
