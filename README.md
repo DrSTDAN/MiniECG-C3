@@ -63,6 +63,10 @@ here i let you see some pictures of our apk conected with miniecg wireless with 
 esp:
 aqui les dejo las foto de nuestro trabajo con el apk conectado con el miniecg inalambrico con una conexion de bluetooth BLE de consumo reducido.
 
+
+![ECG_principle_slow](https://github.com/user-attachments/assets/0db71d1a-0d35-41b2-8c53-511425554ce2)
+
+
 ![SinusalSimulator](https://github.com/user-attachments/assets/a6e74da5-6bc0-407c-958b-69473a71414d)
 
 ![Sinusal](https://github.com/user-attachments/assets/9ed07b71-3d45-4199-ab88-67931dbdd7ff)
