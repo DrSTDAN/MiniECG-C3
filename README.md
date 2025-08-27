@@ -82,3 +82,11 @@ aqui les dejo las foto de nuestro trabajo con el apk conectado con el miniecg in
 
 ![EV](https://github.com/user-attachments/assets/9bb091f7-a108-4949-b2dc-5ec13ab00d7e)
 
+
+Puedes ayudar este proyecto con donaciones :
+You can help this project donating at:
+direction de bitcoin : bc1q0sc972jn9gkn2uzde5dcp5ga6ecqpljOsctwtk
+![bitcoin](https://github.com/user-attachments/assets/e79a8223-1d9d-4add-9390-15e9a12db81c)
+
+
+
